@@ -1,0 +1,1 @@
+ccminer -a lyra2v2 -o stratum+tcp://pool1.phi-phi-pool.com:4533 -u AdSwKa9jk6xz1Spwarv12r1MNiY4EmN2fP -p c=ABS

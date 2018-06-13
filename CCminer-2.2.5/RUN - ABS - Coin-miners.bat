@@ -1,0 +1,1 @@
+ccminer -a lyra2v2 -o stratum+tcp://stratum-eu.coin-miners.info:4533 -u AdSwKa9jk6xz1Spwarv12r1MNiY4EmN2fP -p c=ABS
